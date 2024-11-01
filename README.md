@@ -1,4 +1,4 @@
-# latihan praktikum 1
+# latihan praktikum 
  Latihan 1: Buat program python untuk kasus berikut:
 
 Kasus 1: Program Pemesanan Tiket Bioskop
